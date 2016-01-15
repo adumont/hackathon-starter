@@ -1,4 +1,5 @@
 app:
+  autorestart: always
   image: 'adumont/hackathon-starter:latest'
   links:
     - database
